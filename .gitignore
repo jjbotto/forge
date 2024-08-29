@@ -37,7 +37,7 @@ Thumbs.db
 # SFML-specific
 *.depend
 *.layout
-/dependencies/
+dependencies/
 
 
 
