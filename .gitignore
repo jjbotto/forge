@@ -1,0 +1,48 @@
+# Build directories
+/build/
+/bin/
+/lib/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# SFML-specific
+*.depend
+*.layout
+/dependencies/
+
+
+
+
+
+# Temporary files
+*.tmp
+*.temp
